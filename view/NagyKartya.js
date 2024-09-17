@@ -27,7 +27,7 @@ export default class NagyKartya {
 
   kepKiir() {
     this.#szuloElem.append(`
-            <button class="bal col-1" ><<</button>
+            <button class="bal col-1 btn btn-outline-secondary"> << </button>
                 <div class="card col-10">
                 <h3>${this.#obj.cim}</h3>
                 <img src="${
@@ -36,7 +36,7 @@ export default class NagyKartya {
       this.#obj.cim
     }">
             </div>
-            <button class="jobb col-1">>></button>
+            <button class="jobb col-1 btn btn-outline-secondary"> >> </button>
             
             
             `);

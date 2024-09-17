@@ -1,21 +1,21 @@
 export const kepLista = [
   {
-    url: "kep1.jpg",
+    url: "kepek/kep1.jpg",
     cim: "kék virág",
     index: 0,
   },
   {
-    url: "kep2.jpg",
+    url: "kepek/kep2.jpg",
     cim: "zöldes növény",
     index: 1,
   },
   {
-    url: "kep3.jpg",
+    url: "kepek/kep3.jpg",
     cim: "lila virág",
     index: 2,
   },
   {
-    url: "kep4.jpg",
+    url: "kepek/kep4.jpg",
     cim: "rózsaszín virág",
     index: 3,
   },
