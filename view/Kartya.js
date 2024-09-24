@@ -2,7 +2,6 @@ export default class Kartya {
   /* ADATTAGOK */
   #obj = {};
   #szuloElem;
-  kepElem;
 
   /* KONSTRUKTOR */
   constructor(obj, szuloElem) {
